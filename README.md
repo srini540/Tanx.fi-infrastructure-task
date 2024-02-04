@@ -1,4 +1,4 @@
-######### T.Srinivasan, 20BCB7066 ##########
+# T.Srinivasan, 20BCB7066 
 
 I have created a dataset for the orders in the format of a CSV file naming it as "orders.csv" and then inserted the same into the google colaboratory files page and then tried to get the code for the same dataset.
 The code first reads the data inserted using the pandas library and then the computation of the dataset takes place.
